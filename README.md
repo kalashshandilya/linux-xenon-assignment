@@ -15,10 +15,7 @@ The Interns Control Command-Line Tool (`internsctl`) is a simple utility for man
 
 
 
-```bash
-chmod +x internsctl
-
-##  workflow diagram
+## Workflow Diagram
 
 ![image](https://github.com/kalashshandilya/linux-xenon-assignment/assets/81811583/68cedcb1-0c85-42c5-bd85-91f7cc54fd98)
 
